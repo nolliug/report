@@ -1,0 +1,12 @@
+{
+  "category": "adults",
+  "source": "Adults.xlsx",
+  "years": {
+    "2023": {"january":7004,"february":7010,"march":7017,"april":7021,"may":7011,"june":6943,"july":6841,"august":6755,"september":6754,"october":6776,"november":6763,"december":6771,"tlds":{".adult":[7004,7010,7017,7021,7011,6943,6841,6755,6754,6776,6763,6771],".hot":[1,1,1,1,1,1,1,1,1,1,1,1],".porn":[8903,8908,8913,8873,8864,8784,8661,8555,8546,8493,8469,8465],".sex":[7189,7185,7176,7127,7151,7145,7099,7065,7032,6999,6980,6902],".sexy":[10285,8583,8874,9177,9396,9559,9812,10046,10252,10362,10515,10553],".sucks":[6821,6825,6790,6789,6788,6809,6808,6907,7258,7403,7513,7500],".wtf":[35253,35812,36462,36985,39113,40704,40435,39090,38021,37780,38576,38634]}},
+    "2024": {"january":66741,"february":698?}
+  },
+  "validation": {
+    "status": "partial-published",
+    "notes": ["2023 and 2024 source tables are available in the attachment; 2026 contains January values only and future months are marked Coming.","The category total fields must be recomputed from the per-TLD arrays before production use."]
+  }
+}

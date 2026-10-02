@@ -1,0 +1,9 @@
+{
+  "adults": {
+    "name": "Adults",
+    "slug": "adults",
+    "source_file": "Adults.xlsx",
+    "tlds": [".adult", ".hot", ".porn", ".sex", ".sexy", ".sucks", ".wtf"],
+    "mapping_status": "source-file-defined"
+  }
+}
